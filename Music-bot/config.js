@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        px: 'kuz!',
+        px: 'k!',
         token: 'OTE4ODc4ODkxNDY3MjQzNTkw.YbNqpw.7lmAC0bL4nZkocnM3-PQKvOY1eY',
-        playing: 'kuz!help',
+        playing: 'k!help',
     },
 
     opt: {
